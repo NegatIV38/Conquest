@@ -1,0 +1,25 @@
+﻿La génération a démarré 24/06/2016 11:05:23.
+     1>Projet "D:\VSProj\INFLUENCE\INFLUENCE\INFLUENCE.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\SFML32\SFML-2.3.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\vsproj\influence\influence\source.cpp(35): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+     1>d:\vsproj\influence\influence\source.cpp(36): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+     1>d:\vsproj\influence\influence\source.cpp(56): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+     1>d:\vsproj\influence\influence\source.cpp(105): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+     1>d:\vsproj\influence\influence\source.cpp(106): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+     1>d:\vsproj\influence\influence\source.cpp(302): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\influence\influence\source.cpp(312): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\influence\influence\source.cpp(318): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\influence\influence\source.cpp(407): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\influence\influence\source.cpp(413): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\influence\influence\source.cpp(423): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\influence\influence\source.cpp(501): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VSProj\INFLUENCE\Debug\INFLUENCE.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\SFML32\SFML-2.3.1\lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VSProj\INFLUENCE\Debug\INFLUENCE.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VSProj\INFLUENCE\Debug\INFLUENCE.lib" /MACHINE:X86 Debug\Source.obj
+         INFLUENCE.vcxproj -> D:\VSProj\INFLUENCE\Debug\INFLUENCE.exe
+     1>Génération du projet "D:\VSProj\INFLUENCE\INFLUENCE\INFLUENCE.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.32
